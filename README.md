@@ -1,5 +1,16 @@
 # PET_PROJECT "GAME_GELICOPTER"
 
+#### Управление:
+* w - вверх
+* s - вниз
+* a - в право
+* d - в лево
+#
+<img align="right" src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_1.png" width="400"/>
+<img align="left" src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_3.png" width="400"/>
+
+#
+
 ### Для установки игры необходимо:
 
 * На рабочем столе создать папку "project" и перейти в неё
@@ -29,11 +40,3 @@
      sudo python main.py
      ``` 
 #
-#### Управление:
-* w - вверх
-* s - вниз
-* a - в право
-* d - в лево
-#
-<img align="right" src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_1.png" width="800"/>
-<img align="right" src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_3.png" width="800"/>
