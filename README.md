@@ -8,10 +8,10 @@
 #
 <tr>
 <td>
-<img src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_1.png" width="200"/>
+<img src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_1.png" width="400"/>
 </td>
 <td>
-<img src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_3.png" width="200"/>
+<img align="right" src="https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter/blob/main/img/scrin_3.png" width="400"/>
 </td>
 </tr>
 
