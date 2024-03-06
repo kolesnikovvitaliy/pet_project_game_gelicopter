@@ -1,5 +1,5 @@
 # PET_PROJECT "GAME_GELICOPTER"
-
+## V-0.2
 #### Управление:
 * w - вверх
 * s - вниз
